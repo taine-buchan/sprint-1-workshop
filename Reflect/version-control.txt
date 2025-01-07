@@ -1,0 +1,18 @@
+What's the difference between Git and GitHub?
+
+Github is a remote place for your git folders to live, with source code that can be shared and changed by anyone. It allows you to work collaboratively and manage repositories remotely. 
+
+Git is a version control system that works on your computer and can be accessed in the terminal. It allows you to track, view and change source code on your pc. 
+
+
+
+Can you think of an analogy to describe them?
+
+Git is just like taking a selfie of an outfit and looking back at it later, Git allows you to capture a snapshot of your code (like the outfit) at a specific point in time. You can look back, make changes, and decide whether to "wear" (use) it again or change it.
+
+GitHub is like posting the outfit photo online for others to see is like using GitHub. You’re sharing your code (outfit) with others, and they can see it, suggest changes, or even collaborate with you on it.
+
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+
+Yes

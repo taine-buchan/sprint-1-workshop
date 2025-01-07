@@ -1,0 +1,25 @@
+How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
+
+It's like having a conversation with a robot, in its own language where you can ask it to do anything you want, but it's ultra specific and picky. 
+
+
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+Yes!
+
+
+Name five commands you used and what they do.
+
+ls - lists out all files under the current directory 
+open . - opens the current directory from terminal.
+Command k - clears terminal window. 
+Ls - git checkout -b  - Locally creates a new branch and switches to it. 
+Git push - pushing commit to GitHub repository. 
+
+
+
+Did you learn anything unexpected?
+
+Committing and Pushing can all be done from terminal and it's super intuitive.
+
