@@ -1,3 +1,33 @@
+
+How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
+
+It's like having a conversation with a robot, in its own language where you can ask it to do anything you want, but it's ultra specific and picky. 
+
+
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+Yes!
+
+
+Name five commands you used and what they do.
+
+ls - lists out all files under the current directory 
+open . - opens the current directory from terminal.
+Command k - clears terminal window. 
+Ls - git checkout -b  - Locally creates a new branch and switches to it. 
+Git push - pushing commit to GitHub repository. 
+
+
+
+Did you learn anything unexpected?
+
+Committing and Pushing can all be done from terminal and it's super intuitive.
+
+
+
+
+
 What's the difference between Git and GitHub?
 
 Github is a remote place for your git folders to live, with source code that can be shared and changed by anyone. It allows you to work collaboratively and manage repositories remotely. 
@@ -16,3 +46,30 @@ GitHub is like posting the outfit photo online for others to see is like using G
 Do you think you would still remember the difference a week from now if you didn't revisit the material?
 
 Yes
+
+
+
+
+
+What is a Git workflow?
+
+Create a repository (git init).
+Make changes to files in the working directory.
+Stage changes (git add <file>).
+Commit changes (git commit -m "message").
+Repeat steps 2-4 as you continue working.
+Push to a remote repository GitHub when ready (git push).
+
+What did you notice about your learning? What did you do when you were confused or blocked?
+Hmm, I got (still get) confused with the overall workflow and specificity of the git workflow. 
+
+Is there anything you'd do differently if you were to repeat the learning exploration?
+Nope, all good so far! 
+
+
+
+
+How would you describe stage and commit to your non-tech-savvy friend?
+Stage is like saving a draft version of a poem you wrote, you continue to tweak it and make it better with each revision, commit is like publishing the completed poem that you're happy with, you can still go back to it.
+
+ 
