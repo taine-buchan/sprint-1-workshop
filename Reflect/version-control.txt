@@ -5,9 +5,12 @@ It's like having a conversation with a robot, in its own language where you can 
 
 
 
+
 Did you stick to the timebox guidelines? If not, what change would you make next time?
 
 Yes!
+
+
 
 
 Name five commands you used and what they do.
@@ -20,10 +23,10 @@ Git push - pushing commit to GitHub repository.
 
 
 
+
 Did you learn anything unexpected?
 
 Committing and Pushing can all be done from terminal and it's super intuitive.
-
 
 
 
@@ -36,6 +39,7 @@ Git is a version control system that works on your computer and can be accessed 
 
 
 
+
 Can you think of an analogy to describe them?
 
 Git is just like taking a selfie of an outfit and looking back at it later, Git allows you to capture a snapshot of your code (like the outfit) at a specific point in time. You can look back, make changes, and decide whether to "wear" (use) it again or change it.
@@ -43,10 +47,11 @@ Git is just like taking a selfie of an outfit and looking back at it later, Git 
 GitHub is like posting the outfit photo online for others to see is like using GitHub. You’re sharing your code (outfit) with others, and they can see it, suggest changes, or even collaborate with you on it.
 
 
+
+
 Do you think you would still remember the difference a week from now if you didn't revisit the material?
 
 Yes
-
 
 
 
@@ -60,16 +65,23 @@ Commit changes (git commit -m "message").
 Repeat steps 2-4 as you continue working.
 Push to a remote repository GitHub when ready (git push).
 
-What did you notice about your learning? What did you do when you were confused or blocked?
-Hmm, I got (still get) confused with the overall workflow and specificity of the git workflow. 
 
+
+
+What did you notice about your learning? What did you do when you were confused or blocked?
+
+Hmm, I got (still get) confused with the overall workflow and specificity of the git workflow.
+
+
+
+ 
 Is there anything you'd do differently if you were to repeat the learning exploration?
+
 Nope, all good so far! 
 
 
 
 
 How would you describe stage and commit to your non-tech-savvy friend?
-Stage is like saving a draft version of a poem you wrote, you continue to tweak it and make it better with each revision, commit is like publishing the completed poem that you're happy with, you can still go back to it.
 
- 
+Stage is like saving a draft version of a poem you wrote, you continue to tweak it and make it better with each revision, commit is like publishing the completed poem that you're happy with, you can still go back to it. 
